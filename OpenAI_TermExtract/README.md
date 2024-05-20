@@ -36,3 +36,8 @@ This script does the following:
 - creates a new worksheet and adds the term pairs into separate columns
 - sends the source terms to OpenAI and requests a definition for each one
 - it also replaces the formula used with the plain text result to ensure any editing in the excel afterwards won't kick-off anymore calls to OpenAI
+
+## Excel
+
+I also attached the Excel I used for this to clarify how I did this. It contains three worksheets:
+![Image showing the three worksheet tabs in Excel](images/excel_tabs.png "Excel worksheets")
